@@ -8,7 +8,7 @@ IPL 2026 highlights playlist – All matches, 12 languages (English, Hindi, Mara
 3. Add playlist URL and enjoy
 
 ## 📂 Files
-- IPL_HIGHLIGHTS_4K.m3u – Main playlist
+- `IPL_HIGHLIGHTS_4K.m3u` – Main playlist
 
 ## ⚠️ Note
 Streams work best with Indian IP. Use VPN if needed.
