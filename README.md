@@ -12,6 +12,3 @@ IPL 2026 highlights playlist – All matches, 12 languages (English, Hindi, Mara
 
 ## ⚠️ Note
 Streams work best with Indian IP. Use VPN if needed.
-
-## 📬 Contact
-Telegram: https://t.me/CRICKETRTX
